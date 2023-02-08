@@ -1,0 +1,17 @@
+npm install
+react-bootstrap bootstrap
+npm i react-router-dom
+npm i dotenv
+npm install express
+npm i jsonwebtoken
+npm i pg-promise
+
+
+Backend
+
+npm i uuid
+npm i validation-result
+npm i bcrypt
+npm i jsonwebtoken
+
+Env file : REACT_APP_RECIPES_API="http://localhost:9000"
